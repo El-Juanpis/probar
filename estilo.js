@@ -23,3 +23,6 @@ reset.addEventListener("click" , ()=>{
     numeri= 0;
     contador.innerHTML = numeri
 } );
+
+
+console.log("hice un cambio xd ")
